@@ -12,3 +12,11 @@ this is my shopping lis:
 *tomatoes
 *chocolate
 
+```java
+	public class MyCat {
+	private string nam;
+	public MyCat (string name) {
+	this_name = name;
+	}
+}
+```
